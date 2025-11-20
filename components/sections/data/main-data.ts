@@ -37,15 +37,21 @@ export const quinceMainData = {
     },
     abuelos:{
       maternos: {
-        abuelo: "Fermín Gomez Ibarra",
-        abuela: "Ricarda Trasviña Castro",
+        abuelo: "Macario",
+        abuela: "Maria",
       },
       paternos: {
-        abuelo: "Benigno Chinchillas Beltrán",
-        abuela: "Genoveva Alvarez",
+        abuelo: "Alvino",
+        abuela: "Avigail",
       },
     },
     chambelan: "Dilan Trasviña Coutiño",
+    chambelanes: [
+      "Alan",
+      "Juan",
+      "Jesus",
+      "Alexis",
+    ],
     date: {
       full: "Sábado 03 de Enero 2026",
       isoDate: "2026-01-03T16:00:00",

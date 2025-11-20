@@ -21,8 +21,10 @@ export function ChambeScene({ onComplete, isActive }: ChambeSceneProps) {
   const [videoLoaded, setVideoLoaded] = useState(false)
   const [videoError, setVideoError] = useState(false)
 
-  const firstMessage = "Chambelán"
-  const secondMessage = event.chambelan
+  const chambelanes = event.chambelanes || [];
+
+  const firstMessage = "Chambelanes"
+  const secondMessage = `${chambelanes.join(", ")}`
   
   // Handle video loading
   const handleVideoLoaded = () => {
