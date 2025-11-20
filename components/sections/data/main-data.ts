@@ -74,16 +74,16 @@ export const quinceMainData = {
     //Misa a la 1pm parroquia Santa fe de Guadalupe, la Sauceda Guanajuato.
     ceremony: {
       time: "5 PM ",
-      venue: "Maria Auxiliadora",
-      address: "Las Grullas MD",
+      venue: "Iglesia del Sagrado Corazón de Jesús",
+      address: "Buenos Aires",
       type: "Misa de Acción de Gracias",
       ubiLink: "",
       ceremonyImage: "/images/quince6.jpeg",
     },
     party: {
       time: "6 PM ",
-      venue: "Casa de mis Abuelos Maternos",
-      address: "Las Grullas MD",
+      venue: "Casa de mis Abuelos Paternos",
+      address: "Buenos Aires",
       type: "Fiesta y Baile",
       ubiLink: "",
     },
