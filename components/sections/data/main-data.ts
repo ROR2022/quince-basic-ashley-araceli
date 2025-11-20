@@ -51,6 +51,7 @@ export const quinceMainData = {
       "Juan",
       "Jesus",
       "Alexis",
+      "Elian Jesus"
     ],
     date: {
       full: "Sábado 03 de Enero 2026",
